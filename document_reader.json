@@ -19,7 +19,7 @@
     "inter_doc_bookmarks_active": true,
     "inter_doc_bookmarks_clicks": 3,
     "banner_home": "ca-app-pub-3940256099942544/6300978111",
-    "banner_home_active": true,,
+    "banner_home_active": true,
     "banner_doc_preview": "ca-app-pub-3940256099942544/6300978111",
     "banner_doc_preview_active": true,
     "banner_create_template": "ca-app-pub-3940256099942544/6300978111",
@@ -27,3 +27,4 @@
     "banner_create_new": "ca-app-pub-3940256099942544/6300978111",
     "banner_create_new_active": true
   }
+}
